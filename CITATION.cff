@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite these reproduction materials and the associated manuscript when using them. Publication identifiers will be added when available."
+type: software
+title: "Revisiting Early-Error Selection in Tropical Cyclone Ensembles: Figure Reconstruction Code and Data"
+version: 1.0.0
+date-released: 2026-10-19
+repository-code: "https://github.com/CloudyLaking/tropical-cyclone-early-selection"
+authors:
+  - family-names: Li
+    given-names: Yunze
+    affiliation: "Department of Atmospheric and Oceanic Sciences, Fudan University"
+  - family-names: Feng
+    given-names: Jie
+    affiliation: "Department of Atmospheric and Oceanic Sciences, Fudan University"
+keywords:
+  - tropical cyclones
+  - ensemble forecasting
+  - member selection
+  - figure reconstruction

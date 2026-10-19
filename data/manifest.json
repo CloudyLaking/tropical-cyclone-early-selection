@@ -1,0 +1,97 @@
+{
+  "snapshot": "Manuscript V25, 2026-10-19",
+  "files": {
+    "data/case_provenance.json": {
+      "bytes": 623,
+      "sha256": "b3562d404b12ce785e52ad60c5c964bca0e0c6214ac524b9d4c256685668f9b4"
+    },
+    "data/count_curves.csv": {
+      "bytes": 754132,
+      "sha256": "0fc29c050357c8247d4128ef4cb04a8a6c734cccb0933de190984d18893d5544"
+    },
+    "data/count_minima.csv": {
+      "bytes": 8267,
+      "sha256": "3450dd932678f71bbe617e984bd6392819b7e9499e0f2393ccbf9f041902cb2e"
+    },
+    "data/coverage_crossings.csv": {
+      "bytes": 97292,
+      "sha256": "b9f13669776262d87b5c30239e5e8b064379d9d305cc54a3220a7d624d331410"
+    },
+    "data/coverage_summary.csv": {
+      "bytes": 292329,
+      "sha256": "dec46563900f7e95cd7b52e4190d80a672abf03316ad421acb2a20c37f0d0cb1"
+    },
+    "data/fixed_storms.csv": {
+      "bytes": 1970847,
+      "sha256": "2b795c2dd7d995cd1eb0e413ca910c6363856c57c5e6c3b75abc992157c2963c"
+    },
+    "data/fixed_summary.csv": {
+      "bytes": 113511,
+      "sha256": "68013d3012ae73aae1a25da1d5949f52bfd0b4f91360b48cd9f16e8bd6c7d399"
+    },
+    "data/fraction_summary.csv": {
+      "bytes": 55974,
+      "sha256": "6dc2eca413c148c61db6a41218d8f8c16d0e83a21c4d54bc8dc7069fd48569c3"
+    },
+    "data/geometry_cases.csv": {
+      "bytes": 296530,
+      "sha256": "6f843ecda51c28690d41828a856f5f028aab6f6ed92ea7081e0f52116c5bda0a"
+    },
+    "data/geometry_summary.csv": {
+      "bytes": 30882,
+      "sha256": "5d714eb92aa3bbaf62fe3066d5af253206fae516c7329428a9463bd91db54f1f"
+    },
+    "data/illustrative_track.npz": {
+      "bytes": 8641,
+      "sha256": "07e6684af23b81394cd35bfad5afb5e0d69aae42083d74f96ff46ccad307974a"
+    },
+    "data/illustrative_track_ncep.npz": {
+      "bytes": 4200,
+      "sha256": "019cc1376bb9642d8dcc5c79c6abb763c92f52266c354dc07c4a5248d2cdc38e"
+    },
+    "data/member_histories.csv.gz": {
+      "bytes": 5532577,
+      "sha256": "74762712a2f427ae8c3fb603fa8d2de698ddcea9ded9a6155aac13f6511ff659"
+    },
+    "data/performance_summary.csv": {
+      "bytes": 34446,
+      "sha256": "b0aaddef161cd6eade53393518569920b4406d6688576eaacac6ffc35d7cd2bf"
+    },
+    "data/rank_806_summary.csv": {
+      "bytes": 18846,
+      "sha256": "4123218b45afd11088696524643a83814fee1387183a56f26884576b9260a270"
+    },
+    "data/rank_817_summary.csv": {
+      "bytes": 24959,
+      "sha256": "cf828d163a5f840614fb4e89d76cee96a17b753d1bbc05c6e94895c0fec5328f"
+    },
+    "data/spatial120_grid.csv": {
+      "bytes": 27584,
+      "sha256": "fe96bd6460535b6898f3890517d3e87d93889b15bdadb1c40c4c081bab77abc6"
+    },
+    "data/storm_geometry_summary.csv": {
+      "bytes": 7191,
+      "sha256": "0479d08cb9fbf0804e523a87fa9ee8e1e7f82528f7ecd4ec5d601b76c613aa61"
+    },
+    "assets/natural_earth/ne_50m_coastline.cpg": {
+      "bytes": 5,
+      "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+    },
+    "assets/natural_earth/ne_50m_coastline.dbf": {
+      "bytes": 70101,
+      "sha256": "f100fa5a99786c63ec9eb2cd430e389bc6235b8e26d2712d33f9bfd6cb6aadfc"
+    },
+    "assets/natural_earth/ne_50m_coastline.prj": {
+      "bytes": 143,
+      "sha256": "98aaf3d1c0ecadf1a424a4536de261c3daf4e373697cb86c40c43b989daf52eb"
+    },
+    "assets/natural_earth/ne_50m_coastline.shp": {
+      "bytes": 1046728,
+      "sha256": "797d675af9613f80b51ab6049fa32e589974d7a97c6497ca56772965f179ed26"
+    },
+    "assets/natural_earth/ne_50m_coastline.shx": {
+      "bytes": 11524,
+      "sha256": "0ff1792f2d16b58246d074215edd9d12fa280880ecaad61a91b9382fee854065"
+    }
+  }
+}
