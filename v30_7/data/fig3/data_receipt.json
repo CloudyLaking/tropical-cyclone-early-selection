@@ -1,0 +1,49 @@
+{
+  "status": "PASS",
+  "case_leads": 3224,
+  "cases": 806,
+  "storms": {
+    "ECMWF": 64,
+    "NCEP": 100
+  },
+  "examples": [
+    {
+      "center": "ECMWF",
+      "code": "ECMWF_2019278N16165_2019-10-07T120000",
+      "members": 51,
+      "selection": "Previously paired Hagibis example; no V29 outcome-based selection",
+      "lead": 120
+    },
+    {
+      "center": "NCEP",
+      "code": "NCEP_2019278N16165_2019-10-07T120000",
+      "members": 21,
+      "selection": "Previously paired Hagibis example; no V29 outcome-based selection",
+      "lead": 120
+    }
+  ],
+  "old_restore_max_km": 2.718516190082968e-13,
+  "summary_restore_max_km": 5.684341886080802e-14,
+  "certificate_restore_max_km": 2.842170943040401e-14,
+  "source_sha256": {
+    "historical-source/v28_ranking_order_v02/independent_acceptance_v03/acceptance.json": "2f795ec781a078d08e39bce8aab74b202e6d928992f6d31a929f6f1cc84014a2",
+    "historical-source/v28_ranking_order_v02/case_results.csv.gz": "9f7c4dfbc65bcc4f1a19a89effb16e83e48ce8480b667dabbedc45b590582f92",
+    "historical-source/monotone_capacity_v01/case_results.csv.gz": "95ed082abd7ffe157f716538d43b5bce57d1e6a9b777ffd4031c322cf462517e",
+    "historical-source/group_information_v01/cases.csv.gz": "84e70de2e3cc3521cc4a7ad0b4004bc21b6a84ae4df878da813a5a3e2a7984f3",
+    "historical-source/v28_ranking_order_v02/summary.csv": "23db1faebdb7721f60cfda4983638f43cbd5dca582d8d9519811d8d9e031625f",
+    "historical-source/monotone_capacity_v01/summary.csv": "37fa8f128b49023d2517533b706a09db65957c4977fba2580f588635ce4a028c",
+    "historical-source/group_information_v01/summary.csv": "06610ce6d30ddb235314a5eb3a2d5350139c4d362e53e54d26019a4356a36df5",
+    "historical-source/motion_theory_v01/full/bootstrap_ECMWF.json": "588da0b14fc7ffbad864b62a52582b7c36e0c072b1589ea554347c4d25fffa9a",
+    "historical-source/motion_theory_v01/full/bootstrap_ECMWF.npy": "14c9c25be0df4edfa2c7fe7676a42d200a4c5f179674ae517249934077b26133",
+    "historical-source/motion_theory_v01/full/bootstrap_NCEP.json": "214b1e715cc5cd4d1aea1dc3f5984866db1a73693f0c5f6c7e11af798ebd3424",
+    "historical-source/motion_theory_v01/full/bootstrap_NCEP.npy": "9780ce6f08df152d5c4cc72e2360a88a1836df7f699420e5cac8c0f017c8677f",
+    "historical-source/v28_ranking_order_v02/cases/ECMWF_2019278N16165_2019-10-07T120000.npz": "e6130c41acaccc59f82ded0ac0af9be4d527cf517e3502203f8b61ee3fffbe81",
+    "historical-source/v28_ranking_order_v02/cases/NCEP_2019278N16165_2019-10-07T120000.npz": "fca1cc4e7652bcde7776ee6e3c3e9a0e7597ab94c53f309b08a340dae05f4fba"
+  },
+  "script_sha256": "b2dc7f4c1d0912cf56a1ed372b6bce10949179b802524ff33798efd63afe32aa",
+  "new_optimization": false,
+  "new_permutations": false,
+  "new_bootstrap_draws": false,
+  "distribution": "storm means of paired initialization differences",
+  "interval": "original 5000 paired whole-storm draws; pointwise exploratory percentile 95%; no multiplicity adjustment"
+}

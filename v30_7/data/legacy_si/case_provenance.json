@@ -1,0 +1,15 @@
+{
+  "storm": "Typhoon Hagibis (2019)",
+  "sid": "2019278N16165",
+  "initialization_utc": "2019-10-07T12:00:00Z",
+  "ECMWF": {
+    "members": 51,
+    "selected_members": 25
+  },
+  "NCEP": {
+    "members": 21,
+    "selected_members": 10
+  },
+  "case_rule": "Previously fixed ECMWF example; the NCEP example uses the same storm and initialization. No error-based case reselection.",
+  "coordinates": "Saved member error vectors are already aligned memberwise at 24 h. Plotting reconstructs positions by adding truth_xy, then places the observed 24-hour location at the origin. Coordinates are in kilometres."
+}

@@ -1,0 +1,17 @@
+center,kind,term,mean,ci_low,ci_high
+ECMWF,Full mean,member-length term,-54.32,-105.40,-4.16
+NCEP,Full mean,member-length term,-67.61,-113.48,-23.40
+ECMWF,Full mean,cancellation term,-53.03,-61.47,-45.21
+NCEP,Full mean,cancellation term,-53.05,-61.14,-45.42
+ECMWF,Full mean,direction term,-40.07,-64.60,-20.16
+NCEP,Full mean,direction term,-24.52,-45.97,-3.16
+ECMWF,Full mean,total ATE,-147.43,-205.34,-92.28
+NCEP,Full mean,total ATE,-145.18,-198.11,-93.42
+ECMWF,Selection change,member-length term,-1.02,-9.21,6.57
+NCEP,Selection change,member-length term,-4.80,-13.45,3.51
+ECMWF,Selection change,cancellation term,+6.16,3.59,9.00
+NCEP,Selection change,cancellation term,+7.51,5.23,9.91
+ECMWF,Selection change,direction term,+1.18,-2.42,5.06
+NCEP,Selection change,direction term,-6.61,-13.08,0.01
+ECMWF,Selection change,total ATE,+6.32,-3.19,15.59
+NCEP,Selection change,total ATE,-3.89,-14.09,6.11

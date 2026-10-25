@@ -1,0 +1,431 @@
+center,lead,metric,mean,ci_low,ci_high,cases,storms,interval
+ECMWF,48,H,2.9590054154886136,1.5730220048482528,4.709360740445185,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,D_early,38.595465706298015,33.278619988888025,43.917355257867975,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,I_early,46.81147649933702,40.098490382160506,53.75854255085769,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,M_early,30.784959952601415,25.18823109419382,36.50455391768907,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,I_better_early,0.4327607237533708,0.3547172358891108,0.5142280491924334,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,D_late,6.894620849550816,5.112891497621125,8.942157793794411,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,I_late,60.80804185312017,54.25940724350595,67.39114242609506,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,M_late,6.854248053433202,5.070845593412693,8.909088621742384,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,I_better_late,0.013231464460784314,0.0009765625,0.032658835018382196,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,D_random,42.12072393619829,37.15270820330331,47.271884787707116,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,I_random,42.201195989404155,37.16580829849304,47.338202816497635,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,M_random,32.73610379502101,28.292183890440565,37.38688821987583,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,I_better_random,0.4888421615237232,0.48058610302497795,0.49716196267052004,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,D_early_minus_late,31.700844856747196,27.148005622418655,36.325210081604375,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,D_early_minus_late_positive_1km,0.8329157783087011,0.7630204018752387,0.8922001147532508,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,D_early_minus_late_negative_1km,0.04355816900623886,0.013789680467357398,0.08348152364639033,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,D_late_minus_H,3.9356154340622034,2.947245935465009,5.070009656339115,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,D_late_minus_H_positive_1km,0.4818386742444647,0.3933883913140576,0.5702517037190749,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,D_late_minus_H_negative_1km,0.0,0.0,0.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,D_early_minus_random,-3.5252582299002695,-6.5171788516804385,-0.594982097102062,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,D_early_minus_random_positive_1km,0.474501888277164,0.3921917396903035,0.5569682740156087,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,D_early_minus_random_negative_1km,0.47308470736779556,0.3886152181407236,0.5602523702426045,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,D_early_minus_H,35.636460290809396,30.83384135583349,40.439798490910526,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,D_early_minus_H_positive_1km,0.8515355699753677,0.7816756525235383,0.9109473331827994,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,D_early_minus_H_negative_1km,0.0,0.0,0.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,D_random_minus_H,39.16171852070968,34.82076634619559,43.466064053857856,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,D_random_minus_H_positive_1km,0.9830729166666666,0.9609375,1.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,D_random_minus_H_negative_1km,0.0,0.0,0.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,M_early_minus_late,23.930711899168216,19.282515612643518,28.862261962191734,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,M_early_minus_late_positive_1km,0.7038249931747174,0.6200193874625171,0.7809353938162531,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,M_early_minus_late_negative_1km,0.05665942513368984,0.022372159090909092,0.10096308907085559,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,M_late_minus_H,3.8952426379445884,2.896956301471109,5.009668806682145,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,M_late_minus_H_positive_1km,0.470445445077798,0.37978284876377705,0.5587759394532141,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,M_late_minus_H_negative_1km,0.0,0.0,0.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,M_early_minus_random,-1.9511438424195915,-4.6509780760845185,0.767248150465809,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,M_early_minus_random_positive_1km,0.43380213663991235,0.35100229105427866,0.5183309887046674,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,M_early_minus_random_negative_1km,0.5068705026080945,0.423068699548766,0.5917804914843631,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,M_early_minus_H,27.825954537112803,22.85152572868978,32.96586411704215,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,M_early_minus_H_positive_1km,0.7499555553209045,0.6663285475311553,0.8244613175070433,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,M_early_minus_H_negative_1km,0.0,0.0,0.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,M_random_minus_H,29.777098379532394,25.946340772977244,33.58445243946077,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,M_random_minus_H_positive_1km,0.9505329114819004,0.9187483723958334,0.9766279061203809,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,M_random_minus_H_negative_1km,0.0,0.0,0.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,H,5.026780371081669,2.6267520613886255,7.896711415428139,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,D_early,63.242142767060464,53.98161988057514,72.60484183642907,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,I_early,78.3907786418735,65.98571648817233,91.69924716076626,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,M_early,49.02401535922277,40.653091202328994,57.77432425796775,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,I_better_early,0.4315182200866944,0.3430687536205114,0.523984038773216,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,D_late,10.75081337092007,7.709120867541364,14.225302516227645,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,I_late,106.14779011194088,92.0447054473351,120.28605042023084,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,M_late,10.458161950912418,7.411974031561977,13.949280833887352,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,I_better_late,0.0509765625,0.01171875,0.1017578125,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,D_random,71.55820800773427,61.27750616894681,82.37551106354289,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,I_random,71.4452285306212,61.35189387055235,82.07475545545529,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,M_random,54.81910006897392,46.12663625460035,63.86158521664087,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,I_better_random,0.4809452725383978,0.4651836793608401,0.49421693721216114,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,D_early_minus_late,52.49132939614039,44.8075669186564,60.2841325989549,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,D_early_minus_late_positive_1km,0.8611817372272336,0.7976311135887194,0.9157485458717649,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,D_early_minus_late_negative_1km,0.0357257326007326,0.016218199118589745,0.05947250124007936,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,D_late_minus_H,5.724032999838403,4.357042925893876,7.2543877461374935,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,D_late_minus_H_positive_1km,0.47930043174758247,0.3948695315101565,0.5618354522570975,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,D_late_minus_H_negative_1km,0.0,0.0,0.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,D_early_minus_random,-8.316065240673804,-15.31086164689704,-1.6574823892662816,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,D_early_minus_random_positive_1km,0.4552583445965799,0.3759280355316659,0.5377932088208972,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,D_early_minus_random_negative_1km,0.5224109262367534,0.43991753956827495,0.6025445090168206,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,D_early_minus_H,58.215362395978794,50.03608826940008,66.47872032206466,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,D_early_minus_H_positive_1km,0.8896616187631813,0.8294095162649848,0.939661398714133,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,D_early_minus_H_negative_1km,0.0,0.0,0.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,D_random_minus_H,66.53142763665261,57.753534744262396,75.62430018804254,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,D_random_minus_H_positive_1km,0.98125,0.9468749999999999,1.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,D_random_minus_H_negative_1km,0.0,0.0,0.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,M_early_minus_late,38.56585340831036,32.26638886757836,45.07388189757973,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,M_early_minus_late_positive_1km,0.7408809340679745,0.6628211237738467,0.8133485494285125,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,M_early_minus_late_negative_1km,0.059059284771600946,0.026764860892273576,0.10117111257563922,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,M_late_minus_H,5.4313815798307505,4.077648417784916,6.967402248144715,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,M_late_minus_H_positive_1km,0.4527379317475825,0.37040439703525646,0.5363865486280467,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,M_late_minus_H_negative_1km,0.0,0.0,0.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,M_early_minus_random,-5.795084709751141,-11.003814975362733,-0.8254691418179352,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,M_early_minus_random_positive_1km,0.4168668800562183,0.3344728099846436,0.5005350312473474,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,M_early_minus_random_negative_1km,0.5077575840213708,0.4247620787734529,0.5920172973855188,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,M_early_minus_H,43.99723498814111,37.033830579934424,51.2909002069338,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,M_early_minus_H_positive_1km,0.8050532175647065,0.7303381528984701,0.8719009262859791,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,M_early_minus_H_negative_1km,0.0,0.0,0.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,M_random_minus_H,49.79231969789225,42.529078010303415,57.264251404906005,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,M_random_minus_H_positive_1km,0.9468449519230769,0.8874699519230769,0.9944411057692306,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,M_random_minus_H_negative_1km,0.0,0.0,0.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,H,7.47277342535999,3.8835721270508197,11.824566366760134,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,D_early,118.0696273087483,99.90128290980819,137.20010835939271,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,I_early,132.76405296164495,113.96550615940885,153.45367598927848,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,M_early,91.68662634052951,77.14231564501894,106.92855919709025,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,I_better_early,0.4324628675042278,0.3490076444057372,0.5166603394435427,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,D_late,18.38135587429635,13.611066498242003,23.578277130366867,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,I_late,189.91386011735494,167.57773721268111,213.96971172250682,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,M_late,18.331992375316677,13.567346676202423,23.53231191232939,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,I_better_late,0.00842690295815296,0.0008680555555555555,0.01852805397727273,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,D_random,125.61630790557494,108.88469327837382,143.7185472863722,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,I_random,125.63459945114366,109.32190720750134,143.52048510109577,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,M_random,95.98527599372846,82.0275004180434,110.89660959596469,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,I_better_random,0.4937687690288865,0.4869092213402391,0.5006697537609107,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,D_early_minus_late,99.68827143445193,83.59013353765097,116.96441463998752,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,D_early_minus_late_positive_1km,0.920530244622616,0.8861820733583716,0.9508762138851751,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,D_early_minus_late_negative_1km,0.04132909191502941,0.019735147664835168,0.06637297381438005,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,D_late_minus_H,10.908582448936361,8.586540280618745,13.506417684382093,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,D_late_minus_H_positive_1km,0.5723947531737055,0.48929754879260845,0.6547940085534869,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,D_late_minus_H_negative_1km,0.0,0.0,0.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,D_early_minus_random,-7.546680596826651,-17.332513152680487,2.5694443982744075,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,D_early_minus_random_positive_1km,0.443337899335142,0.36426152776451487,0.5250852803242508,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,D_early_minus_random_negative_1km,0.5341126015528589,0.4552106023699544,0.6157867658281259,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,D_early_minus_H,110.59685388338829,93.82956785302213,128.48850259472064,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,D_early_minus_H_positive_1km,0.947016872016872,0.9179986343951186,0.9717435938627342,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,D_early_minus_H_negative_1km,0.0,0.0,0.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,D_random_minus_H,118.14353448021495,103.05244254344697,134.6264968346374,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,D_random_minus_H_positive_1km,1.0,1.0,1.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,D_random_minus_H_negative_1km,0.0,0.0,0.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,M_early_minus_late,73.35463396521283,61.608942236800196,85.72089667778711,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,M_early_minus_late_positive_1km,0.8766740102218042,0.8323769196999896,0.9181023184969646,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,M_early_minus_late_negative_1km,0.06339719946107814,0.03653782565346214,0.09373875428850154,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,M_late_minus_H,10.859218949956688,8.52540195580151,13.460974176401315,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,M_late_minus_H_positive_1km,0.564835905771108,0.48115604332860756,0.6486381121367908,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,M_late_minus_H_negative_1km,0.0,0.0,0.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,M_early_minus_random,-4.2986496531989555,-11.579946275299276,2.9893225177662157,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,M_early_minus_random_positive_1km,0.4426342333626341,0.3654855995337383,0.5196968962091321,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,M_early_minus_random_negative_1km,0.49080343803459614,0.4119202816752793,0.5691603491994117,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,M_early_minus_H,84.21385291516953,71.60532782552053,97.42172846199561,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,M_early_minus_H_positive_1km,0.9184026719297859,0.8835359188975341,0.9495283940171346,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,M_early_minus_H_negative_1km,0.0,0.0,0.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,M_random_minus_H,88.51250256836849,76.38477100243941,101.29933403162441,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,M_random_minus_H_positive_1km,0.9889787946428572,0.9711216517857143,1.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,M_random_minus_H_negative_1km,0.0,0.0,0.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,H,15.426063585065428,7.709725917203424,24.61251269636466,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,D_early,199.20171768016698,162.68235891619983,239.5102301112805,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,I_early,211.31121732793713,174.538434170335,250.13285079626579,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,M_early,152.38678112791646,121.41855925012494,186.3629986191522,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,I_better_early,0.41540392817966343,0.32933841013459575,0.5029233931790226,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,D_late,30.940160017905008,22.714698279318494,40.444558512801166,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,I_late,302.75699767669926,261.40622961897986,348.8289907912055,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,M_late,30.729449781138364,22.47194562685328,40.32800329732478,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,I_better_late,0.01440313159063159,0.002232142857142857,0.03318617146742145,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,D_random,202.52712675059269,170.8925257562304,237.25173309704692,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,I_random,202.64423583256732,171.15508302583123,237.35060620675927,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,M_random,156.8623606218159,129.79116232986902,186.72661074143346,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,I_better_random,0.49043656835674154,0.4817028092431059,0.49872444551405903,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,D_early_minus_late,168.26155766226196,136.9342111970958,202.58374488540375,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,D_early_minus_late_positive_1km,0.8855523969494559,0.8236328601953599,0.9365081277994881,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,D_early_minus_late_negative_1km,0.06808402101370852,0.029802552590638527,0.11401963975694444,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,D_late_minus_H,15.514096432839576,12.20490071295797,19.08324627939621,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,D_late_minus_H_positive_1km,0.5622808347187943,0.4759384609531093,0.6440154099500379,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,D_late_minus_H_negative_1km,0.0,0.0,0.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,D_early_minus_random,-3.3254090704257337,-14.681996049661162,8.823168647970382,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,D_early_minus_random_positive_1km,0.4586597914952695,0.379720154998188,0.5371267697146604,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,D_early_minus_random_negative_1km,0.5382400100920322,0.4598721562852997,0.6164630885862504,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,D_early_minus_H,183.77565409510152,152.00805403363788,217.87659700900235,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,D_early_minus_H_positive_1km,0.9140995876060214,0.8583345572804443,0.9592904686459374,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,D_early_minus_H_negative_1km,0.0,0.0,0.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,D_random_minus_H,187.10106316552725,160.3766455038611,216.00863218823164,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,D_random_minus_H_positive_1km,1.0,1.0,1.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,D_random_minus_H_negative_1km,0.0,0.0,0.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,M_early_minus_late,121.6573313467781,96.06590677616353,149.64526892724933,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,M_early_minus_late_positive_1km,0.8013993346828825,0.72417069654202,0.8720689570399472,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,M_early_minus_late_negative_1km,0.09764897199410066,0.05132038859577922,0.1510514882444455,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,M_late_minus_H,15.303386196072935,11.9942302599534,18.94863033454204,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,M_late_minus_H_positive_1km,0.5478777031281626,0.4611308491791603,0.6296979863796844,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,M_late_minus_H_negative_1km,0.0,0.0,0.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,M_early_minus_random,-4.475579493899458,-13.772791991248306,5.264805421941047,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,M_early_minus_random_positive_1km,0.446955835983869,0.37179210546398045,0.5245670501501152,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,M_early_minus_random_negative_1km,0.5302996495436753,0.4541291716096404,0.6056401855841766,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,M_early_minus_H,136.96071754285103,110.86649803975412,165.33323968531508,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,M_early_minus_H_positive_1km,0.8339147793077021,0.7574122583911186,0.8992596090146066,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,M_early_minus_H_negative_1km,0.0,0.0,0.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,M_random_minus_H,141.4362970367505,119.63013736623058,164.89206507351457,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,M_random_minus_H_positive_1km,0.9811617355275444,0.9601533321661997,0.99734477124183,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,M_random_minus_H_negative_1km,0.0,0.0,0.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,H,7.721155699248925,4.697796746354053,11.294611066613935,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,D_early,104.77723836556844,89.96988105611705,120.26249882759545,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,I_early,117.31938135769815,101.87479726179944,133.74556253891961,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,M_early,80.97059569506754,68.3043761368843,94.28466030827089,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,I_better_early,0.4280364348809891,0.3713369816713108,0.48541341400091687,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,D_late,16.74173752816806,13.249617151305644,20.547126582501576,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,I_late,164.90667243977882,147.48290151045714,183.64586351583338,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,M_late,16.593463040200163,13.089555839528993,20.39910161467662,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,I_better_late,0.021759515377392215,0.010400361453038381,0.03580818012027801,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,D_random,110.45559165002506,97.0929982683672,124.6536249226441,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,I_random,110.48131495093408,97.23028682516093,124.45415954209547,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,M_random,85.10071011988484,73.72866110517683,96.86191183329693,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,I_better_random,0.48849819286193724,0.4830118713394599,0.493940900970229,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,D_early_minus_late,88.03550083740038,75.52338171423193,101.40009464079523,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,D_early_minus_late_positive_1km,0.8750450392770016,0.8475459751549769,0.900885862591185,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,D_early_minus_late_negative_1km,0.04717425363392734,0.029396443121382804,0.06744708471579737,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,D_late_minus_H,9.020581828919136,7.708615182611005,10.411642403369763,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,D_late_minus_H_positive_1km,0.5239536734711367,0.4779868910705307,0.567940459414207,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,D_late_minus_H_negative_1km,0.0,0.0,0.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,D_early_minus_random,-5.678353284456616,-12.375462576310383,1.321667882678957,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,D_early_minus_random_positive_1km,0.45793948092603887,0.40171434990376004,0.5160987789512749,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,D_early_minus_random_negative_1km,0.51696206131236,0.4571798892583877,0.5747890872116804,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,D_early_minus_H,97.0560826663195,84.116735440771,110.5707649890904,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,D_early_minus_H_positive_1km,0.9005784120903606,0.8745904493152883,0.924704837311254,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,D_early_minus_H_negative_1km,0.0,0.0,0.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,D_random_minus_H,102.73443595077612,91.47959410073764,114.81988228566227,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,D_random_minus_H_positive_1km,0.9910807291666667,0.9809895833333333,0.9982421875,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,D_random_minus_H_negative_1km,0.0,0.0,0.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,M_early_minus_late,64.37713265486738,54.25085275396236,75.08123927686026,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,M_early_minus_late_positive_1km,0.7806948180368447,0.7429188186727107,0.8178527898425358,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,M_early_minus_late_negative_1km,0.0691912203401174,0.045565680872436384,0.09500354268765343,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,M_late_minus_H,8.87230734095124,7.547477474380017,10.286499040539121,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,M_late_minus_H_positive_1km,0.5089742464311628,0.4643547345650546,0.5530988318019423,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,M_late_minus_H_negative_1km,0.0,0.0,0.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,M_early_minus_random,-4.130114424817286,-8.972516236923726,0.9507482520130262,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,M_early_minus_random_positive_1km,0.4350647715106585,0.38271147311315623,0.48896115941892304,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,M_early_minus_random_negative_1km,0.5089327935519342,0.4551472083417885,0.5625595536191238,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,M_early_minus_H,73.24943999581862,62.69784415119066,84.34783610600843,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,M_early_minus_H_positive_1km,0.8268315560307749,0.7892781006428465,0.8621527078607154,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,M_early_minus_H_negative_1km,0.0,0.0,0.0,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,M_random_minus_H,77.3795544206359,68.2244814910697,86.93575553796494,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,M_random_minus_H_positive_1km,0.9668795983938446,0.9491346434407099,0.9823266256121841,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48-120h mean,M_random_minus_H_negative_1km,0.0,0.0,0.0,300,64,pointwise exploratory 95% paired storm percentile
+NCEP,48,H,15.774336978087378,10.785333310798345,21.65115794890579,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,D_early,57.82375676270222,49.18613214677272,68.20851653676009,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,I_early,64.75860211293829,56.531315991601154,74.42931376321793,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,M_early,47.09328048304039,40.26077558123693,55.06211904103907,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,I_better_early,0.3877340811922856,0.320436437826879,0.45764595441108596,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,D_late,20.133985792716466,15.200731554890995,25.91038772310876,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,I_late,82.52249825907548,72.01897642686924,95.46977786284793,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,M_late,20.089255725107016,15.16852710725411,25.860174078037026,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,I_better_late,0.0095,0.0,0.023,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,D_random,60.745506533474334,51.93218306713642,71.47210316741632,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,I_random,60.6497203716761,51.8018850891107,71.50588679054165,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,M_random,49.10591618655064,41.10371951008435,58.84444166548397,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,I_better_random,0.4955680580824162,0.49020222339366815,0.5010785133999102,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,D_early_minus_late,37.68977096998575,32.121953412468685,44.35453623366227,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,D_early_minus_late_positive_1km,0.9204482749792346,0.8924444408747424,0.9469970146640424,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,D_early_minus_late_negative_1km,0.02923897812713602,0.014046504756208703,0.047756889382547275,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,D_late_minus_H,4.359648814629086,3.6007708637591023,5.172505629958057,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,D_late_minus_H_positive_1km,0.4665297346702145,0.40234431626917105,0.5286717363776574,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,D_late_minus_H_negative_1km,0.0,0.0,0.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,D_early_minus_random,-2.9217497707721156,-5.554966646193,-0.3834406556295486,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,D_early_minus_random_positive_1km,0.48437038932859366,0.41913021051660765,0.5517986338416485,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,D_early_minus_random_negative_1km,0.4893965520633477,0.42231061834836997,0.5547347922996335,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,D_early_minus_H,42.04941978461484,36.45382672132153,48.72714743703901,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,D_early_minus_H_positive_1km,0.9376341724151321,0.9152787273850158,0.9594499238979115,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,D_early_minus_H_negative_1km,0.0,0.0,0.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,D_random_minus_H,44.97116955538696,39.789964605377946,51.49169170028479,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,D_random_minus_H_positive_1km,0.9977450980392157,0.9949019607843135,1.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,D_random_minus_H_negative_1km,0.0,0.0,0.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,M_early_minus_late,27.00402475793338,23.36096791439966,31.066477024180035,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,M_early_minus_late_positive_1km,0.8588207328017698,0.8212916883673169,0.8942453730512262,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,M_early_minus_late_negative_1km,0.0528511576143155,0.028735126167691957,0.08185628512569301,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,M_late_minus_H,4.314918747019638,3.5630108674178227,5.118557980302347,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,M_late_minus_H_positive_1km,0.4640297346702145,0.39942199238455056,0.5251291051730778,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,M_late_minus_H_negative_1km,0.0,0.0,0.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,M_early_minus_random,-2.012635703510239,-5.255931791342579,0.9275391420116068,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,M_early_minus_random_positive_1km,0.4745534258912742,0.41007641901979164,0.539083673823167,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,M_early_minus_random_negative_1km,0.4342338999579712,0.37310116072008487,0.4964420777107309,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,M_early_minus_H,31.31894350495302,27.598937146747797,35.462265144088285,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,M_early_minus_H_positive_1km,0.8963784251094623,0.8678473249284685,0.924851707831642,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,M_early_minus_H_negative_1km,0.0,0.0,0.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,M_random_minus_H,33.33157920846326,29.1105957768511,38.72566127206436,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,M_random_minus_H_positive_1km,0.9777026682467859,0.9647719623105648,0.9890082107843138,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,M_random_minus_H_negative_1km,0.0,0.0,0.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,H,35.296922185099035,24.78275289773008,47.52105454043089,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,D_early,112.37870111443226,92.8950188725647,135.78321833197165,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,I_early,125.107846723535,107.5890348624427,145.48054937133892,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,M_early,92.78782640152005,76.88558117118252,111.86153378932813,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,I_better_early,0.38389356936493163,0.3196479309884302,0.4508493847655612,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,D_late,43.136299881177266,32.69544421738749,54.98704176615111,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,I_late,156.14133427960655,135.3163200546353,180.9203232029363,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,M_late,43.04291197468694,32.618918812394014,54.902646099699474,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,I_better_late,0.008444444444444444,0.0011111111111111111,0.01822222222222222,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,D_random,116.00403423020569,98.1298230812567,137.5648596914988,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,I_random,116.1913148149569,98.31603488302041,137.53963632883872,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,M_random,95.14445446205288,78.5115423715469,114.85308971921108,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,I_better_random,0.49129051474048935,0.48515945362958685,0.49736691200986105,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,D_early_minus_late,69.242401233255,57.8973425419638,83.01095350444,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,D_early_minus_late_positive_1km,0.8668799093063798,0.8201986238842855,0.9098210808799044,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,D_early_minus_late_negative_1km,0.034187576312576316,0.01284342948717949,0.06297973901098898,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,D_late_minus_H,7.839377696078219,6.334571026106706,9.564754767849399,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,D_late_minus_H_positive_1km,0.5026298639441054,0.43871776780580957,0.5651677369693431,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,D_late_minus_H_negative_1km,0.0,0.0,0.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,D_early_minus_random,-3.625333115773427,-8.923271262742368,1.906765799913014,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,D_early_minus_random_positive_1km,0.5034021769853814,0.44080315910761925,0.5696372100669798,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,D_early_minus_random_negative_1km,0.4861387265555222,0.4201942010646733,0.54759385945367,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,D_early_minus_H,77.08177892933321,65.81572789264625,90.62273495706889,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,D_early_minus_H_positive_1km,0.9019150685915391,0.8558848793363498,0.9405910759175464,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,D_early_minus_H_negative_1km,0.0,0.0,0.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,D_random_minus_H,80.70711204510664,70.96344968525368,92.35416746327618,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,D_random_minus_H_positive_1km,1.0,1.0,1.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,D_random_minus_H_negative_1km,0.0,0.0,0.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,M_early_minus_late,49.74491442683313,41.101073990843425,60.37038623313319,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,M_early_minus_late_positive_1km,0.8139732110424834,0.763432638298234,0.8617236954125593,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,M_early_minus_late_negative_1km,0.06044883771199561,0.03429333626899418,0.09379911152444047,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,M_late_minus_H,7.745989789587896,6.2693169513118105,9.456437681440278,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,M_late_minus_H_positive_1km,0.49951875283299424,0.43564813720636103,0.5627893560687678,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,M_late_minus_H_negative_1km,0.0,0.0,0.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,M_early_minus_random,-2.356628060532811,-6.856802795428945,2.1901652411844394,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,M_early_minus_random_positive_1km,0.48918130592317893,0.4256237755300255,0.5515668110967548,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,M_early_minus_random_negative_1km,0.48826887401384306,0.42516184348309927,0.5521858155013633,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,M_early_minus_H,57.490904216421015,48.93223467044566,67.76457287551106,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,M_early_minus_H_positive_1km,0.8645574185016911,0.8144091448992185,0.9095547489082126,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,M_early_minus_H_negative_1km,0.0,0.0,0.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,M_random_minus_H,59.84753227695383,51.901339342241606,69.57357777953403,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,M_random_minus_H_positive_1km,0.9950833333333334,0.9889979166666665,1.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,M_random_minus_H_negative_1km,0.0,0.0,0.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,H,59.25976807905021,44.13535445393184,75.95839663567261,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,D_early,185.30433213446253,156.4986478160854,217.81786183767636,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,I_early,201.84124534248943,173.29263061149564,232.92772560188357,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,M_early,151.7073732185239,126.12140042396835,180.78911320170423,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,I_better_early,0.41525703802561387,0.35454472768158923,0.4766392915499532,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,D_late,70.66499530237041,56.04151614902186,86.68686661163095,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,I_late,254.8399669569509,223.00066719298232,289.9050110411259,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,M_late,70.56196193707325,55.875837540439825,86.5439642346947,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,I_better_late,0.008630952380952382,0.0007142857142857143,0.02125,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,D_random,190.00690695079166,163.74103935066776,219.4092355922745,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,I_random,189.98818740923684,163.76701661434325,219.35833537059534,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,M_random,156.20799694772907,132.57092313619665,182.5711430441672,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,I_better_random,0.4956781983550076,0.48992944933470206,0.5014269213479665,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,D_early_minus_late,114.63933683209216,95.7892052840648,136.15967505843338,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,D_early_minus_late_positive_1km,0.8920286812860343,0.8469844153395625,0.9317738085443966,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,D_early_minus_late_negative_1km,0.04822458505546741,0.020678556166056166,0.08307490775156215,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,D_late_minus_H,11.405227223320201,9.269764779973421,13.787852848809221,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,D_late_minus_H_positive_1km,0.5465153953373768,0.4838825919586951,0.6124462998602702,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,D_late_minus_H_negative_1km,0.0,0.0,0.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,D_early_minus_random,-4.702574816329064,-14.519442639387442,5.027734572422995,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,D_early_minus_random_positive_1km,0.5370149542579883,0.4744286991860909,0.5992720911634803,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,D_early_minus_random_negative_1km,0.4575303199122859,0.3948989419496483,0.5204502486570018,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,D_early_minus_H,126.04456405541234,107.44834773933,147.08262281179464,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,D_early_minus_H_positive_1km,0.9364728384360737,0.9039113145841084,0.9631976234549762,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,D_early_minus_H_negative_1km,0.0,0.0,0.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,D_random_minus_H,130.7471388717414,115.05866743475406,148.10676816433144,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,D_random_minus_H_positive_1km,1.0,1.0,1.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,D_random_minus_H_negative_1km,0.0,0.0,0.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,M_early_minus_late,81.14541128145066,65.27590471955307,100.08920276101746,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,M_early_minus_late_positive_1km,0.8105124173212408,0.7550839257556168,0.8618468707354737,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,M_early_minus_late_negative_1km,0.10399468831821775,0.06080926389786684,0.15236750483993125,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,M_late_minus_H,11.302193858023038,9.14530512519125,13.699784592840805,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,M_late_minus_H_positive_1km,0.5402653953373768,0.4760987781568278,0.6061955326428815,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,M_late_minus_H_negative_1km,0.0,0.0,0.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,M_early_minus_random,-4.500623729205132,-12.832886549236347,4.211150188596453,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,M_early_minus_random_positive_1km,0.4820229314029623,0.4198943813152792,0.5427944180819181,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,M_early_minus_random_negative_1km,0.4864935521135212,0.426015800290181,0.5486159053300502,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,M_early_minus_H,92.44760513947371,77.13575333280335,111.36040274076679,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,M_early_minus_H_positive_1km,0.8769059388324095,0.8321015893828393,0.9173341027028528,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,M_early_minus_H_negative_1km,0.0,0.0,0.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,M_random_minus_H,96.94822886867885,84.48978707399617,110.88726623350415,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,M_random_minus_H_positive_1km,0.9961904761904762,0.9914285714285714,1.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,M_random_minus_H_negative_1km,0.0,0.0,0.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,H,89.1345265157474,67.14317159744772,113.75845589097362,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,D_early,284.4264409461452,245.78765558378717,327.60443432072174,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,I_early,287.7653431606196,250.51484497492564,327.06697315155566,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,M_early,219.88796159608773,188.56762109191578,254.23365407988004,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,I_better_early,0.4377942128391045,0.37605667088759204,0.49990412293245107,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,D_late,109.38721025230535,88.10256617516855,132.44471905056557,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,I_late,392.521582332297,345.8901282077098,439.7491074904055,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,M_late,108.56028233835883,87.2861359604555,131.61690184750358,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,I_better_late,0.026611111111111113,0.007665277777777778,0.05347291666666665,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,D_random,286.24600234854114,249.98542203575192,324.31370515596313,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,I_random,286.1790087869536,250.05303549900603,324.1996962163982,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,M_random,231.84076671204096,199.7802769183087,265.90370265194116,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,I_better_random,0.4989943687072866,0.4930713401593177,0.504645709182331,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,D_early_minus_late,175.0392306938398,149.66095060883495,202.23803882359206,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,D_early_minus_late_positive_1km,0.9113670408538829,0.8712965273761323,0.9466387485321693,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,D_early_minus_late_negative_1km,0.050415750915750915,0.023478571428571432,0.0843518315018315,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,D_late_minus_H,20.252683736557948,16.214375170047347,24.91164054583999,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,D_late_minus_H_positive_1km,0.5672208634159098,0.4975711435451372,0.6351037211283728,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,D_late_minus_H_negative_1km,0.0,0.0,0.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,D_early_minus_random,-1.819561402395967,-16.269883440846183,13.315053990487327,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,D_early_minus_random_positive_1km,0.5330747933696851,0.4694897687817,0.5970917645520974,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,D_early_minus_random_negative_1km,0.45860896731407563,0.3954933881499478,0.5211736370805836,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,D_early_minus_H,195.2919144303978,169.79086250306474,222.77777891835805,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,D_early_minus_H_positive_1km,0.9467578255078254,0.9145258720446221,0.9726604229104229,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,D_early_minus_H_negative_1km,0.0,0.0,0.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,D_random_minus_H,197.11147583279376,175.47433578271512,220.16051106005398,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,D_random_minus_H_positive_1km,1.0,1.0,1.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,D_random_minus_H_negative_1km,0.0,0.0,0.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,M_early_minus_late,111.32767925772889,92.38246002842324,131.44820525922418,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,M_early_minus_late_positive_1km,0.8445452664380682,0.7945164750808612,0.8920159781191029,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,M_early_minus_late_negative_1km,0.0861131595013174,0.05165238637459032,0.125015712156995,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,M_late_minus_H,19.425755822611436,15.40083448985217,24.03145839460552,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,M_late_minus_H_positive_1km,0.5534847523047988,0.48450035031295663,0.620010128375666,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,M_late_minus_H_negative_1km,0.0,0.0,0.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,M_early_minus_random,-11.952805115953284,-24.34777103466461,0.8810808284025743,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,M_early_minus_random_positive_1km,0.483750146997825,0.42150257055251256,0.5478872325000421,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,M_early_minus_random_negative_1km,0.5006124261015902,0.4378772879897879,0.5635173039207095,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,M_early_minus_H,130.7534350803403,111.63877492406998,151.61375548956337,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,M_early_minus_H_positive_1km,0.8943207219766817,0.8510893277119767,0.9331793621819355,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,M_early_minus_H_negative_1km,0.0,0.0,0.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,M_random_minus_H,142.70624019629358,126.21531770667136,159.93977095635924,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,M_random_minus_H_positive_1km,0.9993333333333334,0.998,1.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,M_random_minus_H_negative_1km,0.0,0.0,0.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,H,49.866388439496006,37.46900200454343,63.69990659694208,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,D_early,159.98330773943556,138.05316992581172,185.6984213789818,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,I_early,169.86825933489555,149.01202375012232,192.89709396821237,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,M_early,127.86911042479302,109.55073199785413,149.21337443692298,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,I_better_early,0.40616972535548385,0.35810689803617435,0.4544155508723087,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,D_late,60.83062280714238,48.875405589086725,74.06197119343749,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,I_late,221.5063454569825,196.4172472544137,249.7937014721484,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,M_late,60.56360299380652,48.545834987422616,73.85792722069273,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,I_better_late,0.013296626984126985,0.00668311011904762,0.021305927579365076,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,D_random,163.2506125157532,142.31956207587328,187.03522964922576,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,I_random,163.25205784570585,142.3011267074996,187.02366675594376,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,M_random,133.0747835770934,114.15015049970853,154.52963036525222,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,I_better_random,0.49538278497129995,0.49143979913699265,0.4994327192535657,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,D_early_minus_late,99.15268493229318,85.98788853973302,114.66277119251342,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,D_early_minus_late_positive_1km,0.897680976606383,0.8750112050047905,0.9192337765919691,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,D_early_minus_late_negative_1km,0.04051672260273266,0.027440381334029748,0.054865770519309104,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,D_late_minus_H,10.96423436764636,9.5313962938477,12.46781622611298,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,D_late_minus_H_positive_1km,0.5207239643419016,0.4833185595751,0.557826489507708,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,D_late_minus_H_negative_1km,0.0,0.0,0.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,D_early_minus_random,-3.2673047763176424,-10.232398811167394,3.676191575326114,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,D_early_minus_random_positive_1km,0.5144655784854121,0.4735138546894497,0.5564355535989316,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,D_early_minus_random_negative_1km,0.4729186414613078,0.43151744785679585,0.5135232662662738,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,D_early_minus_H,110.11691929993954,96.74658464594182,125.493140315076,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,D_early_minus_H_positive_1km,0.9306949762376427,0.9134110309957928,0.9472481759841792,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,D_early_minus_H_negative_1km,0.0,0.0,0.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,D_random_minus_H,113.38422407625718,101.50745509926927,126.41320332727119,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,D_random_minus_H_positive_1km,0.9994362745098039,0.9987254901960783,1.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,D_random_minus_H_negative_1km,0.0,0.0,0.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,M_early_minus_late,67.30550743098652,57.5610132098797,79.13073700872772,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,M_early_minus_late_positive_1km,0.8319629069008906,0.8054841416221591,0.8585009598588544,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,M_early_minus_late_negative_1km,0.07585196078646156,0.05867029869452227,0.09438014559507397,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,M_late_minus_H,10.6972145543105,9.294040056384828,12.173992023693273,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,M_late_minus_H_positive_1km,0.514324658786346,0.4767442274986149,0.55137543347122,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,M_late_minus_H_negative_1km,0.0,0.0,0.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,M_early_minus_random,-5.205673152300364,-10.802275281477842,0.4631494604087724,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,M_early_minus_random_positive_1km,0.4823769525538101,0.4409186223552419,0.5236354152141933,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,M_early_minus_random_negative_1km,0.47740218804673135,0.4381640553777792,0.5179700491979854,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,M_early_minus_H,78.00272198529701,68.14553285480034,89.87094682342276,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,M_early_minus_H_positive_1km,0.8830406261050612,0.8603345441221358,0.9049000097141207,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,M_early_minus_H_negative_1km,0.0,0.0,0.0,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,M_random_minus_H,83.20839513759738,73.98811675780117,93.4666128067719,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,M_random_minus_H_positive_1km,0.9920774527759822,0.9874672371031745,0.9961113580047403,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48-120h mean,M_random_minus_H_negative_1km,0.0,0.0,0.0,506,100,pointwise exploratory 95% paired storm percentile
