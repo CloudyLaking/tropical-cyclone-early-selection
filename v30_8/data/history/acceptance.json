@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "seed": 20261025,
+  "replicates": 5000,
+  "storms": {
+    "ECMWF": 45,
+    "NCEP": 67
+  },
+  "models_refit": 0,
+  "point_means_unchanged": true,
+  "scope": "Prior-year fixed available cohorts; conditional on saved predictions; paired across all methods and targets within center",
+  "input_sha256": {
+    "storm_scores.csv": "a4a94a4caafb772e51db41a6072a1c12f0f86bdf8174d6b73564cbf2152b6412",
+    "summary.csv": "6f47ce40cc4f789c55c93394dab8a4c07e2bf539daf5305329ce68f244445fb2"
+  }
+}

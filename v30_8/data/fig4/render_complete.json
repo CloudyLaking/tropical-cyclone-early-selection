@@ -1,0 +1,116 @@
+{
+  "status": "PASS",
+  "input_sha256": {
+    "historical-source/v28_protocol_v01_20261024/data/frozen/cases.pkl.gz": "6641a24b4d7b7fdfb0fb9edc81cf536c1b7817d2fdd6735384a41853d905db5a",
+    "historical-source/v28_protocol_v01_20261024/data/results/summary.csv": "8d1dc3b3562ab17e35da8a90a883b035484316f524f4c26243100fe45e396754",
+    "historical-source/v28_protocol_v01_20261024/data/results/cases.csv.gz": "48d8751af3f16dff92a2057a48a51e3018c56c0809dc645153ba03fe4435e1db",
+    "historical-source/motion_theory_v01/full/bootstrap_ECMWF.json": "588da0b14fc7ffbad864b62a52582b7c36e0c072b1589ea554347c4d25fffa9a",
+    "historical-source/motion_theory_v01/full/bootstrap_ECMWF.npy": "14c9c25be0df4edfa2c7fe7676a42d200a4c5f179674ae517249934077b26133",
+    "historical-source/motion_theory_v01/full/bootstrap_NCEP.json": "214b1e715cc5cd4d1aea1dc3f5984866db1a73693f0c5f6c7e11af798ebd3424",
+    "historical-source/motion_theory_v01/full/bootstrap_NCEP.npy": "9780ce6f08df152d5c4cc72e2360a88a1836df7f699420e5cac8c0f017c8677f"
+  },
+  "source_sha256": "d8c71e677d15092bf5bf5994b681ce883569a959b1a521881f31999bbe15d7d1",
+  "width_mm": 183.0,
+  "height_mm": 190.0,
+  "minimum_font_pt": 7.5,
+  "fixed_case": {
+    "sid": "2019278N16165",
+    "base": "2019-10-07T12:00:00",
+    "lead": 120
+  },
+  "geometry_checks": [
+    {
+      "center": "ECMWF",
+      "protocol": "MW",
+      "metric": "r70",
+      "error_km": 0.0
+    },
+    {
+      "center": "ECMWF",
+      "protocol": "MW",
+      "metric": "ellipse_radius",
+      "error_km": 1.1368683772161603e-13
+    },
+    {
+      "center": "ECMWF",
+      "protocol": "CT",
+      "metric": "r70",
+      "error_km": 5.684341886080802e-14
+    },
+    {
+      "center": "ECMWF",
+      "protocol": "CT",
+      "metric": "ellipse_radius",
+      "error_km": 5.684341886080802e-14
+    },
+    {
+      "center": "NCEP",
+      "protocol": "MW",
+      "metric": "r70",
+      "error_km": 4.263256414560601e-14
+    },
+    {
+      "center": "NCEP",
+      "protocol": "MW",
+      "metric": "ellipse_radius",
+      "error_km": 2.842170943040401e-14
+    },
+    {
+      "center": "NCEP",
+      "protocol": "CT",
+      "metric": "r70",
+      "error_km": 8.526512829121202e-14
+    },
+    {
+      "center": "NCEP",
+      "protocol": "CT",
+      "metric": "ellipse_radius",
+      "error_km": 1.4210854715202004e-13
+    }
+  ],
+  "cloud_axis_limit_km": 600.0,
+  "member_source_rows": 70,
+  "boundary_source_rows": 2888,
+  "summary_source_rows": 16,
+  "notes": [
+    "Only fixed equally weighted selected groups have identical MW/CT means.",
+    "NCEP 120-h available cohort has identical cases; intervals use its saved draws.",
+    "Empirical regions are not calibrated 70% probability forecasts.",
+    "No new selection, scoring, resampling or probabilistic fit."
+  ],
+  "qa": [
+    {
+      "artifact": "source_validation.json",
+      "exit": 0
+    },
+    {
+      "artifact": "pdf_text_audit.json",
+      "exit": 0
+    },
+    {
+      "artifact": "collision_audit.json",
+      "exit": 0
+    }
+  ],
+  "files": {
+    "source_center_radius_changes.csv": "86d74763f5803d9f13ec4ecb7869e0b9c835746b1b8ce7d3a1f5777e6f202796",
+    "coverage_identity_cases.csv": "db72b94ba6489749df758b4561e43a7b4345bb496f2f1916241aab7120a0d24a",
+    "coverage_identity.json": "12978433eca5134516a56c547c305d3dabfb3c743c2c2b933a8dc43f0427f704",
+    "margin_summary.csv": "b65078e0aa58a387b346134be5bed3318979d0d74bc9ae60d8a142a6d522f1da",
+    "margin_storms.csv": "841c4ec1f5023c2f5b7fcf70b5f80515716510d56ffbdf1bc696efa50eaf8c71",
+    "margin_acceptance.json": "5706257193e33bb20b5684394817a6609d6b92ae72f6bd19b879c4f31c93ddac",
+    "figure.alignment.json": "09c89f00286724e5b704ef4b3558faf9389c438f66c4af2df4f8243da333f78e",
+    "figure.alignment.svg": "0af162033457472a2c5cceede8e7d71d7c4c3c165ab368c3ba42f4003456fd16",
+    "Fig04_RangeDefinitions.pdf": "4d6e9a016c74d1e2809af260b1865c755e121d67e69f4b01887c21e9efb6ca1b",
+    "Fig04_RangeDefinitions.svg": "3396bfa27be7fde7c7dca7ce2c8e4abfc094e7c4481a584a9375a2a944f3ae57",
+    "Fig04_RangeDefinitions.png": "c57064cb5ebb20225219a5e975f65d304805372dadc5b6bd2b85133de96eb4dc",
+    "source_cloud_members.csv": "ac27ef20f4b33d3c9f18a4bad33ecabc827806b3d4edd8d9063f2115706dc8c6",
+    "source_region_boundaries.csv": "063bec8faa1c8024fd834923daeed013377a5a49359ee1c33b5fcfb61265a258",
+    "source_region_geometry.csv": "33cba2ca7a7b473358709680c2dd757fece6a1865fde5d4309c30710144da407",
+    "source_paired_coverage.csv": "1f6b4b3c1a1d5203e1bf2aacec67110a612e02d357fbec60207bcf0d89c2ad2d",
+    "source_validation.json": "cc6f7d43b069da86483cbcf93fd73160ecd105bfc34cb2c3b7eb817688defa92",
+    "pdf_text_audit.json": "e6d413456e92a4e1faba9e7b7683c7a0de0d6260a80d6b22707d674027478c66",
+    "figure.collision.json": "f9768c3affb2e1789e7398c808d9930f51ebbb20c02e4feb5fd79d82057fa81c",
+    "collision_audit.json": "f9768c3affb2e1789e7398c808d9930f51ebbb20c02e4feb5fd79d82057fa81c"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "rows": 3224,
+  "max_error": 0.0,
+  "definition": "margin = radius - center distance; covered iff margin >= 0",
+  "random_warning": "Random coverage is the mean of subset indicators, not the indicator of mean distance/radius."
+}

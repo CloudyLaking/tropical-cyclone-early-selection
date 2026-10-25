@@ -1,0 +1,17 @@
+center,lead,metric,mean,ci_low,ci_high,cases,storms,interval
+ECMWF,48,D_early_minus_random,-3.5252582299002695,-6.5171788516804385,-0.594982097102062,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,48,M_early_minus_random,-1.9511438424195915,-4.6509780760845185,0.767248150465809,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,D_early_minus_random,-8.316065240673804,-15.31086164689704,-1.6574823892662816,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,72,M_early_minus_random,-5.795084709751141,-11.003814975362733,-0.8254691418179352,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,D_early_minus_random,-7.546680596826651,-17.332513152680487,2.5694443982744075,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,96,M_early_minus_random,-4.2986496531989555,-11.579946275299276,2.9893225177662157,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,D_early_minus_random,-3.3254090704257337,-14.681996049661162,8.823168647970382,300,64,pointwise exploratory 95% paired storm percentile
+ECMWF,120,M_early_minus_random,-4.475579493899458,-13.772791991248306,5.264805421941047,300,64,pointwise exploratory 95% paired storm percentile
+NCEP,48,D_early_minus_random,-2.9217497707721156,-5.554966646193,-0.3834406556295486,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,48,M_early_minus_random,-2.012635703510239,-5.255931791342579,0.9275391420116068,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,D_early_minus_random,-3.625333115773427,-8.923271262742368,1.906765799913014,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,72,M_early_minus_random,-2.356628060532811,-6.856802795428945,2.1901652411844394,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,D_early_minus_random,-4.702574816329064,-14.519442639387442,5.027734572422995,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,96,M_early_minus_random,-4.500623729205132,-12.832886549236347,4.211150188596453,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,D_early_minus_random,-1.819561402395967,-16.269883440846183,13.315053990487327,506,100,pointwise exploratory 95% paired storm percentile
+NCEP,120,M_early_minus_random,-11.952805115953284,-24.34777103466461,0.8810808284025743,506,100,pointwise exploratory 95% paired storm percentile

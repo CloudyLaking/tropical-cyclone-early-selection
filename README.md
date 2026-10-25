@@ -2,13 +2,13 @@
 
 Code and derived data for **Revisiting Early-Error Selection and Weighting in Tropical Cyclone Ensembles**, Yunze Li and Jie Feng, Fudan University. Manuscript in preparation; no journal DOI or arXiv identifier is assigned here.
 
-## Current manuscript: V30.7
+## Current manuscript: V30.8
 
-[Reproduction instructions and scientific scope](v30_7/README.md)
+[Reproduction instructions and scientific scope](v30_8/README.md)
 
 ```bash
 git clone https://github.com/CloudyLaking/tropical-cyclone-early-selection.git
-cd tropical-cyclone-early-selection/v30_7
+cd tropical-cyclone-early-selection/v30_8
 python reproduce.py --verify
 python -m pip install -r requirements.txt
 python reproduce.py --checks --out results
@@ -16,16 +16,16 @@ python reproduce.py --checks --out results
 
 The current workflow redraws all four main figures and twenty SI figures, and reconstructs principal weight/order, member-range/coverage and circle-margin estimates using frozen derived coordinates, optimized-weight certificates and paired storm draws. Every optimized weighting family uses later truth and is a diagnostic limit, not an operational forecast method. The fixed 120-h and seven-day samples are different.
 
-This is derived-data reproduction, not raw-archive reconstruction or external replication. The [detailed README](v30_7/README.md) lists what is and is not rerun. No manuscript, private review, login material or licensed font is included.
+This is derived-data reproduction, not raw-archive reconstruction or external replication. The [detailed README](v30_8/README.md) lists what is and is not rerun. No manuscript, private review, login material or licensed font is included.
 
-Prior-year correction intervals now directly resample the 45/67 available storms; saved predictions and point means are unchanged. The reproducibility package includes the figure sources and paired draws. The V30.7 editorial update changes layout and evidence organization only; scientific inputs and comparisons remain those of V30.6.
+Prior-year correction intervals now directly resample the 45/67 available storms; saved predictions and point means are unchanged. The reproducibility package includes the figure sources and paired draws. The V30.8 visual update adds storm-level boxplots derived from saved case scores and data-dependent display limits with full-range companions; scientific inputs and comparisons remain those of V30.6.
 
 ## Earlier materials
 
-The previous [V30.6 workflow](v30_6/README.md) and [V30.5 workflow](v30_5/README.md) are retained.
+The previous [V30.7 workflow](v30_7/README.md), [V30.6 workflow](v30_6/README.md) and [V30.5 workflow](v30_5/README.md) are retained.
 
 The original V25 workflow remains at the repository root with its original five-main-figure and fifteen-supporting-figure numbering. See [README_V25.md](README_V25.md). Its figure numbers and title must not be confused with the current manuscript.
 
 ## Citation and terms
 
-See [CITATION.cff](CITATION.cff). The current code/data release is version 2.2.0; this version number does not indicate publication of the manuscript. No software license has yet been assigned. Third-party data retain their source conditions, described in the [current](v30_7/README.md) and [earlier](data/README.md) data documentation. Public visibility does not replace those conditions.
+See [CITATION.cff](CITATION.cff). The current code/data release is version 2.3.0; this version number does not indicate publication of the manuscript. No software license has yet been assigned. Third-party data retain their source conditions, described in the [current](v30_8/README.md) and [earlier](data/README.md) data documentation. Public visibility does not replace those conditions.

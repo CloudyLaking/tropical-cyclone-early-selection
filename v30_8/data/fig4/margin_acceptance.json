@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "original_interval_max_error": 1.0658141036401503e-14,
+  "new_draws": false,
+  "new_optimization": false,
+  "diagnostic": "linear clearance change; not causal decomposition of coverage"
+}
