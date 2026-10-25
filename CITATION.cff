@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "Please cite these reproduction materials and the associated manuscript when using them. Publication identifiers will be added when available."
 type: software
 title: "Revisiting Early-Error Selection and Weighting in Tropical Cyclone Ensembles: Code and Derived Data"
-version: 2.0.0
+version: 2.1.0
 date-released: 2026-10-25
 repository-code: "https://github.com/CloudyLaking/tropical-cyclone-early-selection"
 authors:
