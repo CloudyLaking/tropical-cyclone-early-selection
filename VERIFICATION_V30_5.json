@@ -1,0 +1,68 @@
+{
+  "status": "PASS",
+  "checks": {
+    "weights": {
+      "status": "PASS",
+      "errors": {
+        "feasibility": 6.661338147750939e-16,
+        "endpoint_km": 9.713407672867936e-13,
+        "distance_km": 9.094947017729282e-13,
+        "support_km2": 1.7090650830095757e-09,
+        "case_km": 7.16227077646181e-12,
+        "summary_km": 1.4210854715202004e-13,
+        "ci_km": 6.217248937900877e-14
+      }
+    },
+    "protocol": {
+      "status": "PASS",
+      "errors": {
+        "mean_identity": 2.7284841053187847e-12,
+        "case_values": 2.3874235921539366e-12,
+        "summary": 2.2737367544323206e-13,
+        "interval": 2.8421709430404007e-13
+      }
+    },
+    "margin": [
+      {
+        "center": "ECMWF",
+        "protocol": "A",
+        "mean": -14.74090176911605,
+        "ci_low": -31.729469939869475,
+        "ci_high": 1.352705645321368,
+        "max_error_km": 8.881784197001252e-16
+      },
+      {
+        "center": "ECMWF",
+        "protocol": "B",
+        "mean": -21.81788850881844,
+        "ci_low": -38.19103230792339,
+        "ci_high": -5.648106431781002,
+        "max_error_km": 8.881784197001252e-16
+      },
+      {
+        "center": "NCEP",
+        "protocol": "A",
+        "mean": -14.88084546154877,
+        "ci_low": -30.030167713665545,
+        "ci_high": 0.5850487203793884,
+        "max_error_km": 1.4432899320127035e-15
+      },
+      {
+        "center": "NCEP",
+        "protocol": "B",
+        "mean": -24.559006259327557,
+        "ci_low": -40.30532352898362,
+        "ci_high": -8.903225601269995,
+        "max_error_km": 1.0658141036401503e-14
+      }
+    ]
+  },
+  "manuscript_figure_pixels_identical_at_144dpi": {
+    "fig1": true,
+    "fig2": true,
+    "fig3": true,
+    "fig4": true
+  },
+  "portable_font_run": "PASS",
+  "note": "Final README dataset identifier corrected after numerical run; code/data unchanged. Internal deterministic reproduction, not raw-source or external replication."
+}
